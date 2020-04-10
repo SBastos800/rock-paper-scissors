@@ -7,13 +7,13 @@ Rock paper scissors is a classic two player game. Each player chooses either roc
 ### The possible outcomes are:
 
 * Rock destroys scissors.
-Scissors cut paper.
-Paper covers rock.
-If there’s a tie, then the game ends in a draw.
-Our code will break the game into four parts:
+* Scissors cut paper.
+* Paper covers rock.
+* If there’s a tie, then the game ends in a draw.
+* Our code will break the game into four parts:
 
 ### Instructions:
-Get the user’s choice.
-Get the computer’s choice.
-Compare the two choices and determine a winner.
-Start the program and display the results.
+* Get the user’s choice.
+* Get the computer’s choice.
+* Compare the two choices and determine a winner.
+* Start the program and display the results.

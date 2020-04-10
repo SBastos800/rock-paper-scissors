@@ -6,7 +6,7 @@ Rock paper scissors is a classic two player game. Each player chooses either roc
 
 ### The possible outcomes are:
 
-Rock destroys scissors.
+* Rock destroys scissors.
 Scissors cut paper.
 Paper covers rock.
 If there’s a tie, then the game ends in a draw.

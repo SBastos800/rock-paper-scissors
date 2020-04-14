@@ -2,6 +2,7 @@
 A small demo of Rock, paper, scissors made using JavaScript, HTML and CSS
 
 * One of the first JavaScript challenges completed at _nology, built in Week 3. Rock paper scissors is a game played against the computer. You click on one of the images (buttons) and the computer will give a result at the same time. The winner will be displayed in the board below the game. Please see the instructions below. 
+* The game can be seen here: https://sbastos800.github.io/rock-paper-scissors/
 
 ## Rock, Paper, or Scissors
 Rock paper scissors is a classic two player game. Each player chooses either rock, paper, or scissors. The items are compared, and whichever player chooses the more powerful item wins.

@@ -19,4 +19,3 @@ Rock paper scissors is a classic two player game. Each player chooses either roc
 * Get the user’s choice.
 * Get the computer’s choice.
 * Compare the two choices and determine a winner.
-* Start the program.

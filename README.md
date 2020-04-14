@@ -1,5 +1,5 @@
 # rock-paper-scissors
-A small demo of Rock, paper, scissors made using javaScript
+A small demo of Rock, paper, scissors made using JavaScript, HTML and CSS
 
 ## Rock, Paper, or Scissors
 Rock paper scissors is a classic two player game. Each player chooses either rock, paper, or scissors. The items are compared, and whichever player chooses the more powerful item wins.

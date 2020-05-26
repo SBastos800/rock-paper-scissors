@@ -4,6 +4,9 @@ window.onload = () => {
 
     const resultGame = document.querySelector('.winner');
 
+    const reset = document.querySelector('.reset');
+
+ 
     const computerMove = () => {
         let moves = ["rock", "paper", "scissors"];
         let randomNumber = Math.floor(Math.random() * 3);
@@ -34,4 +37,15 @@ window.onload = () => {
             return "Robot Wins";
         }
     }
+
+    const resetGame = () => {
+        resultGame.innerText = "";
+    }
+
+    reset.addEventListener('click', () => {
+        resetGame();  
+        location.reload(true);     
+    }) 
+       
+    
 }

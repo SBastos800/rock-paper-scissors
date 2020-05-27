@@ -45,7 +45,5 @@ window.onload = () => {
     reset.addEventListener('click', () => {
         resetGame();  
         location.reload(true);     
-    }) 
-       
-    
+    })   
 }

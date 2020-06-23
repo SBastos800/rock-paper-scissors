@@ -26,7 +26,7 @@ window.onload = () => {
 
     const checkResult = (moveHuman, moveRobot) => {
         if (moveHuman === moveRobot) {
-            return "Draw";
+            return "It's a Draw";
         } else if ((moveHuman === "rock" && moveRobot === "scissors") ||
             (moveHuman === "paper" && moveRobot === "rock") ||
             (moveHuman === "scissors" && moveRobot === "paper")) {
